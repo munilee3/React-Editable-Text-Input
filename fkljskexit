@@ -1,0 +1,13 @@
+safe.directory=/home/nxtwave/reactjs/coding-practices/editableTextInput
+safe.directory=/home/nxtwave/reactjs/coding-practices/editableTextInput
+safe.directory=/home/nxtwave/.tmp/reactjs/coding-practices/editableTextInput/build
+safe.directory=/home/nxtwave/reactjs/coding-practices/editableTextInput
+safe.directory=/home/nxtwave/.tmp/reactjs/coding-practices/editableTextInput/build
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+user.email=muniswamykanike@gmail.com
+user.name=Muniswamy
+remote.origin.url=https://github.com/munilee3/React-Editable-Text-Input.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
